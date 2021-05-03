@@ -15,7 +15,7 @@ Main Page Added
 ## Built With
 - Angular 2+ v11.2.6 [Angular CLI](https://github.com/angular/angular-cli)
 - NGX Pagination v5.0.0
-- - Firebase v8.4.2
+- Firebase v8.4.2
 
 ## How to Run Micro Site
 - Clone Repository
