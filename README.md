@@ -1,6 +1,6 @@
 # Employe App
 
-Medes CMS Project is Custom CMS + Admin Panel Website for your business or services.
+Simple HR Employee management app. From Auth add & remove empolyee
 
 ## Technical Assessment
 Main Page Added
