@@ -1,0 +1,1172 @@
+{
+  "7X0BKRWBPVFP3QA": {
+    "firstName": "Kent",
+    "lastName": "Castaneda",
+    "email": "kentcastaneda@bankmandiri.co.id",
+    "birthDate": 1531618626242,
+    "basicSalary": 1422653.36,
+    "status": "Singe",
+    "group": "CS",
+    "description": 1618665543471
+  },
+  "FB3VY5TL0TQ8HWL": {
+    "firstName": "Sutton",
+    "lastName": "Neal",
+    "email": "suttonneal@bankmandiri.co.id",
+    "birthDate": 1555500398698,
+    "basicSalary": 1423369.97,
+    "status": "Married",
+    "group": "Manager",
+    "description": 1579686047332
+  },
+  "GQR9BO85FUK3334": {
+    "firstName": "Bridgette",
+    "lastName": "Taylor",
+    "email": "bridgettetaylor@bankmandiri.co.id",
+    "birthDate": 1536547772863,
+    "basicSalary": 1422069.93,
+    "status": "Singe",
+    "group": "CS",
+    "description": 1586476659831
+  },
+  "H93QELNL66NC0NO": {
+    "firstName": "Helene",
+    "lastName": "Holmes",
+    "email": "heleneholmes@bankmandiri.co.id",
+    "birthDate": 1423290154438,
+    "basicSalary": 1423078.03,
+    "status": "Singe",
+    "group": "Manager",
+    "description": 1616736325376
+  },
+  "32UNOAKBQ6ZN2C3": {
+    "firstName": "Candice",
+    "lastName": "Chapman",
+    "email": "candicechapman@bankmandiri.co.id",
+    "birthDate": 1509930380320,
+    "basicSalary": 1423478.55,
+    "status": "Singe",
+    "group": "Teller",
+    "description": 1594255973346
+  },
+  "7CIQP2BONRZZ8PT": {
+    "firstName": "Meredith",
+    "lastName": "Day",
+    "email": "meredithday@bankmandiri.co.id",
+    "birthDate": 1412376456567,
+    "basicSalary": 1421741.94,
+    "status": "Singe",
+    "group": "CS",
+    "description": 1579761714850
+  },
+  "5X07Q2KHNZE2INO": {
+    "firstName": "Beasley",
+    "lastName": "Dickerson",
+    "email": "beasleydickerson@bankmandiri.co.id",
+    "birthDate": 1510436466480,
+    "basicSalary": 1421830.05,
+    "status": "Married",
+    "group": "Teller",
+    "description": 1603541366313
+  },
+  "I0RG4832P1JN9L1": {
+    "firstName": "Bianca",
+    "lastName": "Ewing",
+    "email": "biancaewing@bankmandiri.co.id",
+    "birthDate": 1535722387500,
+    "basicSalary": 1422480.47,
+    "status": "Singe",
+    "group": "Manager",
+    "description": 1598335323262
+  },
+  "2EP3BILVHWYAX8O": {
+    "firstName": "Harmon",
+    "lastName": "Stephenson",
+    "email": "harmonstephenson@bankmandiri.co.id",
+    "birthDate": 1392232601014,
+    "basicSalary": 1423561.96,
+    "status": "Singe",
+    "group": "CS",
+    "description": 1598066154168
+  },
+  "ZT5BY5F8LEW25LI": {
+    "firstName": "Deann",
+    "lastName": "Bolton",
+    "email": "deannbolton@bankmandiri.co.id",
+    "birthDate": 1465080079068,
+    "basicSalary": 1421028.4,
+    "status": "Married",
+    "group": "Teller",
+    "description": 1594104704045
+  },
+  "9JO8HGZI45EU82Z": {
+    "firstName": "Austin",
+    "lastName": "Gilbert",
+    "email": "austingilbert@bankmandiri.co.id",
+    "birthDate": 1609828078146,
+    "basicSalary": 1423885.16,
+    "status": "Married",
+    "group": "Teller",
+    "description": 1587745211222
+  },
+  "5502HR74NIW6PZW": {
+    "firstName": "Peterson",
+    "lastName": "Maddox",
+    "email": "petersonmaddox@bankmandiri.co.id",
+    "birthDate": 1514979390413,
+    "basicSalary": 1422249.97,
+    "status": "Married",
+    "group": "Teller",
+    "description": 1585531588424
+  },
+  "KB2TR6RQ7QWL3P0": {
+    "firstName": "Francesca",
+    "lastName": "Mclean",
+    "email": "francescamclean@bankmandiri.co.id",
+    "birthDate": 1514500531403,
+    "basicSalary": 1422562.46,
+    "status": "Singe",
+    "group": "Manager",
+    "description": 1579710224099
+  },
+  "K9L3WH2B17A1ZFI": {
+    "firstName": "Freeman",
+    "lastName": "Parsons",
+    "email": "freemanparsons@bankmandiri.co.id",
+    "birthDate": 1499290803500,
+    "basicSalary": 1422638.67,
+    "status": "Singe",
+    "group": "Teller",
+    "description": 1615577524870
+  },
+  "QOKA5I7KNWW0727": {
+    "firstName": "Frye",
+    "lastName": "Noel",
+    "email": "fryenoel@bankmandiri.co.id",
+    "birthDate": 1443234407811,
+    "basicSalary": 1423188.44,
+    "status": "Married",
+    "group": "Teller",
+    "description": 1595972105196
+  },
+  "85NF32IOP16RK6Q": {
+    "firstName": "Ortega",
+    "lastName": "Christensen",
+    "email": "ortegachristensen@bankmandiri.co.id",
+    "birthDate": 1459264437420,
+    "basicSalary": 1421478.15,
+    "status": "Married",
+    "group": "CS",
+    "description": 1616713485691
+  },
+  "CAQ4QCEW997L408": {
+    "firstName": "Gabrielle",
+    "lastName": "Cannon",
+    "email": "gabriellecannon@bankmandiri.co.id",
+    "birthDate": 1532295934000,
+    "basicSalary": 1423550.5,
+    "status": "Married",
+    "group": "CS",
+    "description": 1582657700501
+  },
+  "FIECJ9U3OVTKZTU": {
+    "firstName": "Mia",
+    "lastName": "Carr",
+    "email": "miacarr@bankmandiri.co.id",
+    "birthDate": 1476110210877,
+    "basicSalary": 1422316.71,
+    "status": "Singe",
+    "group": "Manager",
+    "description": 1582375127253
+  },
+  "GPQ6KFKXW0X6F5K": {
+    "firstName": "Kelly",
+    "lastName": "Yates",
+    "email": "kellyyates@bankmandiri.co.id",
+    "birthDate": 1550946898425,
+    "basicSalary": 1422828.01,
+    "status": "Singe",
+    "group": "Manager",
+    "description": 1600266568447
+  },
+  "UXX45RIFL6P8882": {
+    "firstName": "Franco",
+    "lastName": "Bentley",
+    "email": "francobentley@bankmandiri.co.id",
+    "birthDate": 1437837800049,
+    "basicSalary": 1423544.77,
+    "status": "Singe",
+    "group": "CS",
+    "description": 1605122037501
+  },
+  "TNT36I6TTAF44PG": {
+    "firstName": "Holt",
+    "lastName": "Saunders",
+    "email": "holtsaunders@bankmandiri.co.id",
+    "birthDate": 1409130110332,
+    "basicSalary": 1423860.98,
+    "status": "Singe",
+    "group": "Teller",
+    "description": 1590646544024
+  },
+  "UPTY3KR8J7LLWZN": {
+    "firstName": "Rosetta",
+    "lastName": "Cantu",
+    "email": "rosettacantu@bankmandiri.co.id",
+    "birthDate": 1454459774240,
+    "basicSalary": 1423910.02,
+    "status": "Married",
+    "group": "Manager",
+    "description": 1612531683011
+  },
+  "YJOXN3OPPXAA29H": {
+    "firstName": "Bishop",
+    "lastName": "Dixon",
+    "email": "bishopdixon@bankmandiri.co.id",
+    "birthDate": 1505717468371,
+    "basicSalary": 1421504.15,
+    "status": "Married",
+    "group": "Manager",
+    "description": 1613688232717
+  },
+  "LFRKHHZG5RAK64K": {
+    "firstName": "Deena",
+    "lastName": "Knowles",
+    "email": "deenaknowles@bankmandiri.co.id",
+    "birthDate": 1426168876300,
+    "basicSalary": 1421589.71,
+    "status": "Married",
+    "group": "CS",
+    "description": 1610533119875
+  },
+  "GG8H7AGET3JQZ78": {
+    "firstName": "Campbell",
+    "lastName": "Ramos",
+    "email": "campbellramos@bankmandiri.co.id",
+    "birthDate": 1605972558231,
+    "basicSalary": 1423786.13,
+    "status": "Married",
+    "group": "Teller",
+    "description": 1588541245959
+  },
+  "1RC7XCY2IGAFI2Z": {
+    "firstName": "Meadows",
+    "lastName": "Pickett",
+    "email": "meadowspickett@bankmandiri.co.id",
+    "birthDate": 1396030525101,
+    "basicSalary": 1423131.98,
+    "status": "Singe",
+    "group": "CS",
+    "description": 1592992356209
+  },
+  "PNPUCK7L4KFHEQ9": {
+    "firstName": "Stacey",
+    "lastName": "Knapp",
+    "email": "staceyknapp@bankmandiri.co.id",
+    "birthDate": 1596173324440,
+    "basicSalary": 1421108.26,
+    "status": "Married",
+    "group": "Teller",
+    "description": 1611326641599
+  },
+  "52FYNIK1J484E6R": {
+    "firstName": "Cheri",
+    "lastName": "Maynard",
+    "email": "cherimaynard@bankmandiri.co.id",
+    "birthDate": 1523871633872,
+    "basicSalary": 1422844.97,
+    "status": "Singe",
+    "group": "Manager",
+    "description": 1579121013027
+  },
+  "Q9IVNG8G65XB392": {
+    "firstName": "Holcomb",
+    "lastName": "Black",
+    "email": "holcombblack@bankmandiri.co.id",
+    "birthDate": 1421199029054,
+    "basicSalary": 1421139.73,
+    "status": "Singe",
+    "group": "CS",
+    "description": 1607245422574
+  },
+  "ZQV1324HR4V5OPV": {
+    "firstName": "Valencia",
+    "lastName": "Kerr",
+    "email": "valenciakerr@bankmandiri.co.id",
+    "birthDate": 1524366489894,
+    "basicSalary": 1422126.14,
+    "status": "Singe",
+    "group": "CS",
+    "description": 1587178278369
+  },
+  "L6A2NG85V1XK96L": {
+    "firstName": "Gabriela",
+    "lastName": "Gordon",
+    "email": "gabrielagordon@bankmandiri.co.id",
+    "birthDate": 1431267680290,
+    "basicSalary": 1423930.82,
+    "status": "Singe",
+    "group": "CS",
+    "description": 1602772434291
+  },
+  "RR9GTK3J870CRN5": {
+    "firstName": "Sweet",
+    "lastName": "Jacobs",
+    "email": "sweetjacobs@bankmandiri.co.id",
+    "birthDate": 1391345239752,
+    "basicSalary": 1422903.64,
+    "status": "Singe",
+    "group": "Teller",
+    "description": 1591020424196
+  },
+  "QQZK69P61KPUEF3": {
+    "firstName": "Lucinda",
+    "lastName": "Mcfadden",
+    "email": "lucindamcfadden@bankmandiri.co.id",
+    "birthDate": 1607223640626,
+    "basicSalary": 1422094.17,
+    "status": "Married",
+    "group": "Manager",
+    "description": 1618896622607
+  },
+  "07QYJE901NQZ949": {
+    "firstName": "Hayes",
+    "lastName": "Moss",
+    "email": "hayesmoss@bankmandiri.co.id",
+    "birthDate": 1458381540413,
+    "basicSalary": 1423161.78,
+    "status": "Married",
+    "group": "CS",
+    "description": 1612785755135
+  },
+  "C49UX1BHCPAHL0N": {
+    "firstName": "Carroll",
+    "lastName": "Hawkins",
+    "email": "carrollhawkins@bankmandiri.co.id",
+    "birthDate": 1463705783511,
+    "basicSalary": 1422909.74,
+    "status": "Married",
+    "group": "Manager",
+    "description": 1594753174688
+  },
+  "5UHI28U7BXB26OF": {
+    "firstName": "Lottie",
+    "lastName": "Livingston",
+    "email": "lottielivingston@bankmandiri.co.id",
+    "birthDate": 1443504781811,
+    "basicSalary": 1421820.91,
+    "status": "Singe",
+    "group": "Manager",
+    "description": 1607980495520
+  },
+  "UQP5CZ97UOE6HJ8": {
+    "firstName": "Graciela",
+    "lastName": "Wilder",
+    "email": "gracielawilder@bankmandiri.co.id",
+    "birthDate": 1585119258824,
+    "basicSalary": 1422612.7,
+    "status": "Singe",
+    "group": "Manager",
+    "description": 1617448455530
+  },
+  "TAT43G8Z5X0L6N8": {
+    "firstName": "Duran",
+    "lastName": "Callahan",
+    "email": "durancallahan@bankmandiri.co.id",
+    "birthDate": 1614209558990,
+    "basicSalary": 1422405,
+    "status": "Married",
+    "group": "Teller",
+    "description": 1597738400507
+  },
+  "P2FWT7J3FBHKZ1I": {
+    "firstName": "Savage",
+    "lastName": "Jackson",
+    "email": "savagejackson@bankmandiri.co.id",
+    "birthDate": 1532269562166,
+    "basicSalary": 1421745,
+    "status": "Married",
+    "group": "Manager",
+    "description": 1610496916156
+  },
+  "CPXQRL8W7UICT6G": {
+    "firstName": "Carly",
+    "lastName": "Finley",
+    "email": "carlyfinley@bankmandiri.co.id",
+    "birthDate": 1466405788314,
+    "basicSalary": 1423495.29,
+    "status": "Singe",
+    "group": "CS",
+    "description": 1591279346914
+  },
+  "A6LI6Y3ILCT3TJ2": {
+    "firstName": "Hester",
+    "lastName": "Dean",
+    "email": "hesterdean@bankmandiri.co.id",
+    "birthDate": 1547431913160,
+    "basicSalary": 1421067.27,
+    "status": "Singe",
+    "group": "Teller",
+    "description": 1586583918785
+  },
+  "TIXFYR7JCR640QZ": {
+    "firstName": "Harrell",
+    "lastName": "Hodges",
+    "email": "harrellhodges@bankmandiri.co.id",
+    "birthDate": 1459552889510,
+    "basicSalary": 1423778.84,
+    "status": "Married",
+    "group": "CS",
+    "description": 1589161242290
+  },
+  "R7KKFV23GJ0VUPO": {
+    "firstName": "Lindsay",
+    "lastName": "Greer",
+    "email": "lindsaygreer@bankmandiri.co.id",
+    "birthDate": 1492603146284,
+    "basicSalary": 1422305.44,
+    "status": "Married",
+    "group": "Manager",
+    "description": 1581861046624
+  },
+  "PUWQF50XBNB2NET": {
+    "firstName": "Kemp",
+    "lastName": "Frye",
+    "email": "kempfrye@bankmandiri.co.id",
+    "birthDate": 1540126664968,
+    "basicSalary": 1422525.18,
+    "status": "Married",
+    "group": "CS",
+    "description": 1591065786098
+  },
+  "QCW2QIPVGE1JNP4": {
+    "firstName": "Blair",
+    "lastName": "Compton",
+    "email": "blaircompton@bankmandiri.co.id",
+    "birthDate": 1500248620739,
+    "basicSalary": 1421986.89,
+    "status": "Married",
+    "group": "Teller",
+    "description": 1603652457689
+  },
+  "T91UZXUN67V6XKT": {
+    "firstName": "Kristen",
+    "lastName": "Soto",
+    "email": "kristensoto@bankmandiri.co.id",
+    "birthDate": 1538891265207,
+    "basicSalary": 1421922.36,
+    "status": "Singe",
+    "group": "Teller",
+    "description": 1590492359879
+  },
+  "F6F21W468EYHHYK": {
+    "firstName": "Snyder",
+    "lastName": "York",
+    "email": "snyderyork@bankmandiri.co.id",
+    "birthDate": 1395936888337,
+    "basicSalary": 1421310.06,
+    "status": "Married",
+    "group": "Manager",
+    "description": 1600790583251
+  },
+  "70XZ5YT4CX7BABN": {
+    "firstName": "Melanie",
+    "lastName": "Bruce",
+    "email": "melaniebruce@bankmandiri.co.id",
+    "birthDate": 1566397135925,
+    "basicSalary": 1421207.69,
+    "status": "Married",
+    "group": "Teller",
+    "description": 1594947165248
+  },
+  "CNU98JRWIB9I1EX": {
+    "firstName": "Diana",
+    "lastName": "Reeves",
+    "email": "dianareeves@bankmandiri.co.id",
+    "birthDate": 1541826828456,
+    "basicSalary": 1421692.48,
+    "status": "Singe",
+    "group": "Manager",
+    "description": 1610518449665
+  },
+  "VAUIBCQKWRLC71A": {
+    "firstName": "Santana",
+    "lastName": "Sutton",
+    "email": "santanasutton@bankmandiri.co.id",
+    "birthDate": 1534966213991,
+    "basicSalary": 1421087.79,
+    "status": "Singe",
+    "group": "Manager",
+    "description": 1578539952140
+  },
+  "22FB87VOPJOCUPV": {
+    "firstName": "Monica",
+    "lastName": "Maxwell",
+    "email": "monicamaxwell@bankmandiri.co.id",
+    "birthDate": 1616305042044,
+    "basicSalary": 1423617.17,
+    "status": "Married",
+    "group": "CS",
+    "description": 1579567636737
+  },
+  "WZWUBNABJ29JTO9": {
+    "firstName": "Mara",
+    "lastName": "Terry",
+    "email": "maraterry@bankmandiri.co.id",
+    "birthDate": 1597550433817,
+    "basicSalary": 1421607.4,
+    "status": "Singe",
+    "group": "CS",
+    "description": 1579764491455
+  },
+  "1TO9LIU1EKKC2TL": {
+    "firstName": "Joanna",
+    "lastName": "Potter",
+    "email": "joannapotter@bankmandiri.co.id",
+    "birthDate": 1390606259111,
+    "basicSalary": 1422693.42,
+    "status": "Singe",
+    "group": "Manager",
+    "description": 1609106097913
+  },
+  "I388ICUK3O71BOZ": {
+    "firstName": "Christy",
+    "lastName": "Barrett",
+    "email": "christybarrett@bankmandiri.co.id",
+    "birthDate": 1603593772930,
+    "basicSalary": 1422492.18,
+    "status": "Singe",
+    "group": "Manager",
+    "description": 1582689361402
+  },
+  "97EX4FO9OF122B8": {
+    "firstName": "Patel",
+    "lastName": "Hopkins",
+    "email": "patelhopkins@bankmandiri.co.id",
+    "birthDate": 1585223726226,
+    "basicSalary": 1421929.52,
+    "status": "Married",
+    "group": "Manager",
+    "description": 1592609097144
+  },
+  "BG2HA7CNU8JI3HN": {
+    "firstName": "Adkins",
+    "lastName": "Holt",
+    "email": "adkinsholt@bankmandiri.co.id",
+    "birthDate": 1582260205783,
+    "basicSalary": 1423731.44,
+    "status": "Singe",
+    "group": "Teller",
+    "description": 1613750234751
+  },
+  "PQG01QUA853OHN9": {
+    "firstName": "Helen",
+    "lastName": "Hopper",
+    "email": "helenhopper@bankmandiri.co.id",
+    "birthDate": 1612132691429,
+    "basicSalary": 1423459.46,
+    "status": "Singe",
+    "group": "Manager",
+    "description": 1599567337599
+  },
+  "28ON2EYVG4U8TTO": {
+    "firstName": "Pace",
+    "lastName": "Berg",
+    "email": "paceberg@bankmandiri.co.id",
+    "birthDate": 1497344589849,
+    "basicSalary": 1422860.88,
+    "status": "Singe",
+    "group": "Manager",
+    "description": 1594013356833
+  },
+  "RJT24I4BHHJ4RT1": {
+    "firstName": "Sanford",
+    "lastName": "Bender",
+    "email": "sanfordbender@bankmandiri.co.id",
+    "birthDate": 1593818225851,
+    "basicSalary": 1422933.83,
+    "status": "Married",
+    "group": "CS",
+    "description": 1600084758997
+  },
+  "F0GB7RAPQEVOHVK": {
+    "firstName": "Shannon",
+    "lastName": "Cobb",
+    "email": "shannoncobb@bankmandiri.co.id",
+    "birthDate": 1561458169979,
+    "basicSalary": 1422426.08,
+    "status": "Singe",
+    "group": "Manager",
+    "description": 1618884948421
+  },
+  "3107UB91P6LQGHT": {
+    "firstName": "Woods",
+    "lastName": "Walter",
+    "email": "woodswalter@bankmandiri.co.id",
+    "birthDate": 1457947750411,
+    "basicSalary": 1422516.45,
+    "status": "Married",
+    "group": "CS",
+    "description": 1590169695376
+  },
+  "ITHGBF4E4VLVTA9": {
+    "firstName": "Estela",
+    "lastName": "Fields",
+    "email": "estelafields@bankmandiri.co.id",
+    "birthDate": 1502586733688,
+    "basicSalary": 1422198.24,
+    "status": "Singe",
+    "group": "Teller",
+    "description": 1597644227926
+  },
+  "UYOCWX2QOVT85EQ": {
+    "firstName": "Mccarthy",
+    "lastName": "Galloway",
+    "email": "mccarthygalloway@bankmandiri.co.id",
+    "birthDate": 1610545146760,
+    "basicSalary": 1421294.98,
+    "status": "Singe",
+    "group": "CS",
+    "description": 1605932179913
+  },
+  "UB927QFA0HXFFW0": {
+    "firstName": "Roth",
+    "lastName": "Kelly",
+    "email": "rothkelly@bankmandiri.co.id",
+    "birthDate": 1537845505825,
+    "basicSalary": 1422350.82,
+    "status": "Singe",
+    "group": "Teller",
+    "description": 1607682080082
+  },
+  "H184336JAN4VRLL": {
+    "firstName": "Alma",
+    "lastName": "Morris",
+    "email": "almamorris@bankmandiri.co.id",
+    "birthDate": 1392306156739,
+    "basicSalary": 1422185.23,
+    "status": "Married",
+    "group": "CS",
+    "description": 1596974292135
+  },
+  "BI991X4OBHV2PPO": {
+    "firstName": "Ophelia",
+    "lastName": "Turner",
+    "email": "opheliaturner@bankmandiri.co.id",
+    "birthDate": 1577222099134,
+    "basicSalary": 1423387.72,
+    "status": "Married",
+    "group": "Manager",
+    "description": 1597206486449
+  },
+  "N2H7K88YQ77W51F": {
+    "firstName": "Ester",
+    "lastName": "Wolf",
+    "email": "esterwolf@bankmandiri.co.id",
+    "birthDate": 1536551136835,
+    "basicSalary": 1423096.99,
+    "status": "Married",
+    "group": "CS",
+    "description": 1591913299686
+  },
+  "38F0R68K92H7UGT": {
+    "firstName": "Malinda",
+    "lastName": "Harris",
+    "email": "malindaharris@bankmandiri.co.id",
+    "birthDate": 1474194684109,
+    "basicSalary": 1421729.4,
+    "status": "Singe",
+    "group": "Teller",
+    "description": 1610999582486
+  },
+  "EQ48RTNPRJ8NLOT": {
+    "firstName": "Irene",
+    "lastName": "Burke",
+    "email": "ireneburke@bankmandiri.co.id",
+    "birthDate": 1401203581237,
+    "basicSalary": 1421971.71,
+    "status": "Singe",
+    "group": "Teller",
+    "description": 1603670913213
+  },
+  "526IGU8X5R9W13E": {
+    "firstName": "Dyer",
+    "lastName": "Lowery",
+    "email": "dyerlowery@bankmandiri.co.id",
+    "birthDate": 1618091440442,
+    "basicSalary": 1423057.02,
+    "status": "Singe",
+    "group": "CS",
+    "description": 1614334678155
+  },
+  "VH84UOVB7HA10H9": {
+    "firstName": "Opal",
+    "lastName": "Schwartz",
+    "email": "opalschwartz@bankmandiri.co.id",
+    "birthDate": 1508963058821,
+    "basicSalary": 1421246.82,
+    "status": "Married",
+    "group": "Manager",
+    "description": 1587331422473
+  },
+  "WTIYH48PXYR0I54": {
+    "firstName": "Anderson",
+    "lastName": "Cunningham",
+    "email": "andersoncunningham@bankmandiri.co.id",
+    "birthDate": 1538985072764,
+    "basicSalary": 1423860.05,
+    "status": "Singe",
+    "group": "Manager",
+    "description": 1600092160225
+  },
+  "CY80XHT8VNJT215": {
+    "firstName": "Schroeder",
+    "lastName": "Franks",
+    "email": "schroederfranks@bankmandiri.co.id",
+    "birthDate": 1569985191025,
+    "basicSalary": 1421286.02,
+    "status": "Singe",
+    "group": "Teller",
+    "description": 1602360763717
+  },
+  "J24B86ZKJEN5RE0": {
+    "firstName": "Fry",
+    "lastName": "Rodgers",
+    "email": "fryrodgers@bankmandiri.co.id",
+    "birthDate": 1441125514987,
+    "basicSalary": 1423938.32,
+    "status": "Married",
+    "group": "Teller",
+    "description": 1602967598071
+  },
+  "17TW97WCKE7C55X": {
+    "firstName": "Darcy",
+    "lastName": "Merrill",
+    "email": "darcymerrill@bankmandiri.co.id",
+    "birthDate": 1429534387841,
+    "basicSalary": 1421380.8,
+    "status": "Married",
+    "group": "CS",
+    "description": 1588101883659
+  },
+  "7PCEA753Z39U9KA": {
+    "firstName": "Cassandra",
+    "lastName": "Lara",
+    "email": "cassandralara@bankmandiri.co.id",
+    "birthDate": 1391564835203,
+    "basicSalary": 1423790.56,
+    "status": "Married",
+    "group": "Manager",
+    "description": 1581120944156
+  },
+  "53IIJLU1E5UKTZT": {
+    "firstName": "Brandie",
+    "lastName": "Bryan",
+    "email": "brandiebryan@bankmandiri.co.id",
+    "birthDate": 1565779821816,
+    "basicSalary": 1422585.79,
+    "status": "Singe",
+    "group": "Manager",
+    "description": 1614285599187
+  },
+  "EGRR4KQ44ABRK01": {
+    "firstName": "Jo",
+    "lastName": "Mcclure",
+    "email": "jomcclure@bankmandiri.co.id",
+    "birthDate": 1614870066931,
+    "basicSalary": 1421406.18,
+    "status": "Married",
+    "group": "Manager",
+    "description": 1618840068739
+  },
+  "ERIK8LUW6E0JBHJ": {
+    "firstName": "Anne",
+    "lastName": "Malone",
+    "email": "annemalone@bankmandiri.co.id",
+    "birthDate": 1575928101000,
+    "basicSalary": 1421646.8,
+    "status": "Married",
+    "group": "CS",
+    "description": 1614514959488
+  },
+  "922TZ0AKKZ9O445": {
+    "firstName": "Juliet",
+    "lastName": "Wheeler",
+    "email": "julietwheeler@bankmandiri.co.id",
+    "birthDate": 1514045281520,
+    "basicSalary": 1423139.75,
+    "status": "Singe",
+    "group": "Teller",
+    "description": 1598841485407
+  },
+  "5T2KYQI18EEQ8WX": {
+    "firstName": "Frances",
+    "lastName": "Walton",
+    "email": "franceswalton@bankmandiri.co.id",
+    "birthDate": 1506874897382,
+    "basicSalary": 1423525.08,
+    "status": "Married",
+    "group": "Teller",
+    "description": 1610464103296
+  },
+  "YCKG2G9TYNFEFEB": {
+    "firstName": "Sullivan",
+    "lastName": "Sandoval",
+    "email": "sullivansandoval@bankmandiri.co.id",
+    "birthDate": 1463942040524,
+    "basicSalary": 1423117.76,
+    "status": "Married",
+    "group": "Teller",
+    "description": 1597853762012
+  },
+  "AQBCXTJPZ4TXFKT": {
+    "firstName": "Snider",
+    "lastName": "Figueroa",
+    "email": "sniderfigueroa@bankmandiri.co.id",
+    "birthDate": 1599060426895,
+    "basicSalary": 1421902.79,
+    "status": "Married",
+    "group": "Teller",
+    "description": 1613216897233
+  },
+  "9JAR132334227EG": {
+    "firstName": "Samantha",
+    "lastName": "Solomon",
+    "email": "samanthasolomon@bankmandiri.co.id",
+    "birthDate": 1451946579411,
+    "basicSalary": 1423780.9,
+    "status": "Married",
+    "group": "Teller",
+    "description": 1594039247907
+  },
+  "NO9P5W2005PKE8H": {
+    "firstName": "Ann",
+    "lastName": "Gutierrez",
+    "email": "anngutierrez@bankmandiri.co.id",
+    "birthDate": 1614975257575,
+    "basicSalary": 1423430.42,
+    "status": "Singe",
+    "group": "CS",
+    "description": 1608392598790
+  },
+  "28ZOKRX32F778AV": {
+    "firstName": "Hutchinson",
+    "lastName": "Gillespie",
+    "email": "hutchinsongillespie@bankmandiri.co.id",
+    "birthDate": 1488471970837,
+    "basicSalary": 1422053.49,
+    "status": "Singe",
+    "group": "CS",
+    "description": 1587340246901
+  },
+  "N8OXV06GYG81TIL": {
+    "firstName": "Johnson",
+    "lastName": "Pennington",
+    "email": "johnsonpennington@bankmandiri.co.id",
+    "birthDate": 1479122433661,
+    "basicSalary": 1422566.12,
+    "status": "Married",
+    "group": "Manager",
+    "description": 1596995454334
+  },
+  "RFB2BVA4Q3GU7PE": {
+    "firstName": "Russo",
+    "lastName": "Weaver",
+    "email": "russoweaver@bankmandiri.co.id",
+    "birthDate": 1582538740430,
+    "basicSalary": 1423845.58,
+    "status": "Singe",
+    "group": "CS",
+    "description": 1580426693388
+  },
+  "Y3R5WL2F4ZKCFYY": {
+    "firstName": "Mcbride",
+    "lastName": "Brennan",
+    "email": "mcbridebrennan@bankmandiri.co.id",
+    "birthDate": 1611834238042,
+    "basicSalary": 1422957.09,
+    "status": "Married",
+    "group": "CS",
+    "description": 1583955317589
+  },
+  "68L999LZ7PKRQFN": {
+    "firstName": "Minerva",
+    "lastName": "Ferguson",
+    "email": "minervaferguson@bankmandiri.co.id",
+    "birthDate": 1549035258239,
+    "basicSalary": 1422902.66,
+    "status": "Married",
+    "group": "Manager",
+    "description": 1615110216064
+  },
+  "98HJ6NEXNU7QFHU": {
+    "firstName": "Wilkinson",
+    "lastName": "Stanton",
+    "email": "wilkinsonstanton@bankmandiri.co.id",
+    "birthDate": 1403710830002,
+    "basicSalary": 1422010.41,
+    "status": "Married",
+    "group": "Manager",
+    "description": 1609991052762
+  },
+  "5EL6W1Z8JV4RGPB": {
+    "firstName": "Briana",
+    "lastName": "Silva",
+    "email": "brianasilva@bankmandiri.co.id",
+    "birthDate": 1521681466715,
+    "basicSalary": 1421796.96,
+    "status": "Singe",
+    "group": "CS",
+    "description": 1578778060031
+  },
+  "RUZVPKIO9NAWZX0": {
+    "firstName": "Marks",
+    "lastName": "Vazquez",
+    "email": "marksvazquez@bankmandiri.co.id",
+    "birthDate": 1472072455694,
+    "basicSalary": 1421759.29,
+    "status": "Singe",
+    "group": "Teller",
+    "description": 1578976903812
+  },
+  "IIBCAK135OCP7CQ": {
+    "firstName": "Kellie",
+    "lastName": "Hurley",
+    "email": "kelliehurley@bankmandiri.co.id",
+    "birthDate": 1403278544906,
+    "basicSalary": 1421984.93,
+    "status": "Married",
+    "group": "CS",
+    "description": 1595384195983
+  },
+  "6KZLHO58TR22ECU": {
+    "firstName": "Shelley",
+    "lastName": "Mclaughlin",
+    "email": "shelleymclaughlin@bankmandiri.co.id",
+    "birthDate": 1567636573598,
+    "basicSalary": 1421768.58,
+    "status": "Married",
+    "group": "Manager",
+    "description": 1616998570915
+  },
+  "IE6W0KW41U5YAN5": {
+    "firstName": "Guy",
+    "lastName": "Kim",
+    "email": "guykim@bankmandiri.co.id",
+    "birthDate": 1508435937536,
+    "basicSalary": 1422251.53,
+    "status": "Singe",
+    "group": "CS",
+    "description": 1616269398263
+  },
+  "22HVWF37V7TG8PE": {
+    "firstName": "Charles",
+    "lastName": "Bauer",
+    "email": "charlesbauer@bankmandiri.co.id",
+    "birthDate": 1543530654609,
+    "basicSalary": 1423413.66,
+    "status": "Singe",
+    "group": "Teller",
+    "description": 1586081470752
+  },
+  "4OF9WXI3OZYNEJ5": {
+    "firstName": "Juarez",
+    "lastName": "Lowe",
+    "email": "juarezlowe@bankmandiri.co.id",
+    "birthDate": 1477835405981,
+    "basicSalary": 1423168.81,
+    "status": "Married",
+    "group": "Manager",
+    "description": 1590839175676
+  },
+  "IURVV2HAYK1O9XB": {
+    "firstName": "Virginia",
+    "lastName": "Heath",
+    "email": "virginiaheath@bankmandiri.co.id",
+    "birthDate": 1619753984935,
+    "basicSalary": 1422071.02,
+    "status": "Singe",
+    "group": "Teller",
+    "description": 1599890041909
+  },
+  "RLAP7NKBVJIVX32": {
+    "firstName": "Della",
+    "lastName": "Ross",
+    "email": "dellaross@bankmandiri.co.id",
+    "birthDate": 1526979568701,
+    "basicSalary": 1423522.49,
+    "status": "Singe",
+    "group": "CS",
+    "description": 1608991114546
+  },
+  "428Z7L1H3NKTQBA": {
+    "firstName": "Terri",
+    "lastName": "Sanders",
+    "email": "terrisanders@bankmandiri.co.id",
+    "birthDate": 1413305958786,
+    "basicSalary": 1421531.75,
+    "status": "Married",
+    "group": "Teller",
+    "description": 1581035035876
+  },
+  "VLQRFORV7RJ879R": {
+    "firstName": "Hull",
+    "lastName": "Nicholson",
+    "email": "hullnicholson@bankmandiri.co.id",
+    "birthDate": 1513654243242,
+    "basicSalary": 1423488.11,
+    "status": "Married",
+    "group": "Manager",
+    "description": 1613254102194
+  },
+  "LVQA1V1XL4F9E68": {
+    "firstName": "Daisy",
+    "lastName": "Underwood",
+    "email": "daisyunderwood@bankmandiri.co.id",
+    "birthDate": 1575335718014,
+    "basicSalary": 1422004.31,
+    "status": "Married",
+    "group": "Manager",
+    "description": 1615584811210
+  },
+  "8W52FVZIQ6ZBH77": {
+    "firstName": "Alford",
+    "lastName": "Ortega",
+    "email": "alfordortega@bankmandiri.co.id",
+    "birthDate": 1594763146277,
+    "basicSalary": 1422398.49,
+    "status": "Singe",
+    "group": "Manager",
+    "description": 1581597471910
+  },
+  "NB93KEFQ5W2WLBL": {
+    "firstName": "Wong",
+    "lastName": "Kirk",
+    "email": "wongkirk@bankmandiri.co.id",
+    "birthDate": 1579232725966,
+    "basicSalary": 1421389.66,
+    "status": "Married",
+    "group": "Teller",
+    "description": 1586200974873
+  },
+  "JE58ZN09HJXUW39": {
+    "firstName": "Shauna",
+    "lastName": "Thornton",
+    "email": "shaunathornton@bankmandiri.co.id",
+    "birthDate": 1592898273452,
+    "basicSalary": 1422401.57,
+    "status": "Singe",
+    "group": "Teller",
+    "description": 1608351706070
+  },
+  "VKAIHPZ0HY5UI7Z": {
+    "firstName": "Moses",
+    "lastName": "Estes",
+    "email": "mosesestes@bankmandiri.co.id",
+    "birthDate": 1459782423783,
+    "basicSalary": 1423484.01,
+    "status": "Married",
+    "group": "Teller",
+    "description": 1586922766337
+  },
+  "ONLQO5PEY4VWTKU": {
+    "firstName": "Harriet",
+    "lastName": "Robinson",
+    "email": "harrietrobinson@bankmandiri.co.id",
+    "birthDate": 1402540222726,
+    "basicSalary": 1422472.73,
+    "status": "Singe",
+    "group": "Teller",
+    "description": 1595743016307
+  },
+  "KWQK3X5VAE8V8XC": {
+    "firstName": "Farmer",
+    "lastName": "Key",
+    "email": "farmerkey@bankmandiri.co.id",
+    "birthDate": 1547413269050,
+    "basicSalary": 1421235.63,
+    "status": "Married",
+    "group": "Teller",
+    "description": 1607073874735
+  },
+  "LUZGI6BG58K82PI": {
+    "firstName": "Rene",
+    "lastName": "Calderon",
+    "email": "renecalderon@bankmandiri.co.id",
+    "birthDate": 1471938702610,
+    "basicSalary": 1421135.44,
+    "status": "Married",
+    "group": "CS",
+    "description": 1608667528779
+  },
+  "Z7J96OY89CO3QC2": {
+    "firstName": "Debra",
+    "lastName": "Ward",
+    "email": "debraward@bankmandiri.co.id",
+    "birthDate": 1409851661369,
+    "basicSalary": 1423852.42,
+    "status": "Married",
+    "group": "Teller",
+    "description": 1604689488190
+  },
+  "H08L03K65XE38KO": {
+    "firstName": "Barry",
+    "lastName": "George",
+    "email": "barrygeorge@bankmandiri.co.id",
+    "birthDate": 1586282835846,
+    "basicSalary": 1422745.38,
+    "status": "Married",
+    "group": "Teller",
+    "description": 1615109764964
+  },
+  "92HIH72XK4G5XZN": {
+    "firstName": "Wiggins",
+    "lastName": "Tate",
+    "email": "wigginstate@bankmandiri.co.id",
+    "birthDate": 1576040526296,
+    "basicSalary": 1423861.77,
+    "status": "Married",
+    "group": "Teller",
+    "description": 1592591475868
+  },
+  "OUXFR8A8FZ6NWV7": {
+    "firstName": "Hart",
+    "lastName": "Battle",
+    "email": "hartbattle@bankmandiri.co.id",
+    "birthDate": 1501031039182,
+    "basicSalary": 1423854.39,
+    "status": "Singe",
+    "group": "Teller",
+    "description": 1593739637238
+  },
+  "L09V1OBGBWN5ECP": {
+    "firstName": "Ginger",
+    "lastName": "Mays",
+    "email": "gingermays@bankmandiri.co.id",
+    "birthDate": 1605412810593,
+    "basicSalary": 1422451.28,
+    "status": "Singe",
+    "group": "Manager",
+    "description": 1586115264584
+  },
+  "COF8EIVNA3UWI4U": {
+    "firstName": "Cotton",
+    "lastName": "Mcguire",
+    "email": "cottonmcguire@bankmandiri.co.id",
+    "birthDate": 1487932734167,
+    "basicSalary": 1422379.43,
+    "status": "Singe",
+    "group": "Teller",
+    "description": 1603362429051
+  },
+  "0LQ61H3J11UKEHI": {
+    "firstName": "Francis",
+    "lastName": "Hinton",
+    "email": "francishinton@bankmandiri.co.id",
+    "birthDate": 1417802618226,
+    "basicSalary": 1421347.09,
+    "status": "Married",
+    "group": "CS",
+    "description": 1615579402545
+  }
+}

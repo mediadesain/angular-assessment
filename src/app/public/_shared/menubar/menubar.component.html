@@ -1,0 +1,19 @@
+<nav class="navbar navbar-expand-lg fixed-top navbar-light bg-light">
+    <a href="#" class="navbar-brand">
+        <img src="../../../../assets/images/logo.png" height="28" alt="Mandiri">
+    </a>
+    <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarCollapse">
+        <div *ngIf="auth.active" class="navbar-nav">
+            <a routerLink="/" routerLinkActive="active" class="nav-item nav-link" [routerLinkActiveOptions]="{exact:true}">Employee</a>
+            <a routerLink="/account" routerLinkActive="active"  class="nav-item nav-link">Edit Profile</a>
+        </div>
+        <div class="navbar-nav ml-auto">
+            <a *ngIf="!auth.active" routerLink="/account" class="nav-item nav-link">Login</a>
+            <a *ngIf="auth.active" href="javascript:void(0)" class="nav-item nav-link" (click)="keluar()">Logout</a>
+        </div>
+    </div>
+</nav>

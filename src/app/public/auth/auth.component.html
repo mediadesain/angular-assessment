@@ -1,0 +1,73 @@
+<div class="container">
+    <!-- NO AUTH -->
+    <ng-container *ngIf="!auth.active">
+        <h3>Login</h3>
+        <form #login="ngForm" (ngSubmit)="masuk(login.value)">
+            <div class="form-group">
+                <label>Email</label>
+                <input class="form-control"  type="email" placeholder="email" name="email" ngModel required/>
+            </div>
+            <div class="form-group">
+                <label>Password</label>
+                <input class="form-control"  type="password" placeholder="password" name="password" ngModel required/>
+            </div>
+            <button class="btn btn-primary btn-block">Masuk</button>
+        </form>
+    </ng-container>
+
+    <!-- ON AUTH -->
+    <ng-container *ngIf="auth.active">
+        <h3>My Account</h3>
+        <form (ngSubmit)="perbaharuiData()">
+            <div class="form-group">
+                <label>Full Name</label>
+                <input class="form-control" type="text" placeholder="Agus Young" name="fullname" [(ngModel)]="auth.data.fullname" />
+            </div>
+            <div class="form-group">
+                <label>Email</label>
+                <input class="form-control" type="text" placeholder="rey@jul.com" name="email" [(ngModel)]="auth.data.email" disabled/>
+            </div>
+            <div class="form-group">
+                <label>Phone</label>
+                <input class="form-control" type="number" placeholder="0851234567" name="phone" [(ngModel)]="auth.data.phone"/>
+            </div>
+            <div class="form-group">
+                <label>City</label>
+                <input class="form-control" type="text" placeholder="Bandung" name="city" [(ngModel)]="auth.data.address[0].city"/>
+            </div>
+            <div class="form-group">
+                <label>Detail</label>
+                <input class="form-control" type="text" placeholder="Jl. Perjuangan" name="detail" [(ngModel)]="auth.data.address[0].detail"/>
+            </div>
+            <div class="form-row">
+                <div class="col-6">
+                    <div class="form-group">
+                        <label>Zip</label>
+                        <input class="form-control" type="text" placeholder="Jl. Perjuangan" name="zip" [(ngModel)]="auth.data.address[0].zip"/>
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="form-group">
+                        <label>Type</label>
+                        <select class="form-control" name="type" [(ngModel)]="auth.data.address[0].type">
+                            <option>Apartment</option>
+                            <option>House</option>
+                            <option>Kost</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <p><i>Last Login: {{auth.data.datelogin|date}}</i></p>
+            <div class="d-flex justify-content-between">
+                <button class="btn btn-danger" type="button" (click)="keluar()">Logout</button>
+                <button class="btn btn-success" type="submit">Update</button>
+            </div>
+            
+        </form>
+    </ng-container>
+    <!-- <pre>{{auth|json}}</pre> -->
+</div>
+
+
+
+

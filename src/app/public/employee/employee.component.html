@@ -1,0 +1,97 @@
+<ng-container *ngIf="!auth.active">
+    <div class="container text-center">
+        Please Login to Access This Page <a reouterLink="/account">Login Here</a>
+    </div>
+</ng-container>
+
+<ng-container *ngIf="auth.active">
+    <div *ngIf="!selected" class="container">
+        <div class="d-flex">
+            <div class="p-2 flex-grow-1">
+                <input class="form-control" type="text" placeholder="search"/>
+            </div>
+            <div class="p-2">
+                <select class="form-control">
+                    <option>CS</option>
+                    <option>Manager</option>
+                    <option>Teller</option>
+                </select>
+            </div>
+            <div class="p-2">
+                <select class="form-control" name="showperpage" [(ngModel)]="showperpage">
+                    <option>5</option>
+                    <option>15</option>
+                    <option>30</option>
+                    <option>60</option>
+                </select>
+            </div>
+            <div class="p-2"><a routerLink="/new-employee" class="btn btn-success">Add Employee</a></div>
+        </div>
+        <table class="table table-striped">
+            <thead>
+            <tr>
+                <th>Full Name</th>
+                <th>Birthdate</th>
+                <th>Email</th>
+                <th>Group</th>
+                <th>Status</th>
+                <th></th>
+            </tr>
+        </thead>
+            <tbody>
+            <tr *ngFor="let a of data | paginate: { itemsPerPage: showperpage, currentPage: page  };let i = index">
+                <td>{{a.firstName + ' ' + a.lastName}}</td>
+                <td>{{a.birthDate|date}}</td>
+                <td><a href="mailto:{{a.email}}">{{a.email}}</a></td>
+                <td>{{a.group}}</td>
+                <td>{{a.status}}</td>
+                <td>
+                    <a routerLink="" class="btn btn-warning btn-sm mr-2"><i class="fa fa-edit"></i></a>
+                    <a routerLink="" class="btn btn-danger btn-sm mr-2" (click)="deleteData(a.id, i)"><i class="fa fa-trash"></i></a>
+                    <button class="btn btn-primary btn-sm" (click)="viewDetail(a)"><i class="fa fa-chevron-right"></i></button>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+        <pagination-controls (pageChange)="this.page = $event"></pagination-controls>
+        <!-- <pre>{{data|json}}</pre> -->
+    </div>
+
+
+    <div *ngIf="selected" class="container">
+        <table class="table table-striped">
+            <tbody>
+            <tr>
+                <td>Full Name</td>
+                <td>{{selected.firstName + ' ' + selected.lastName}}</td>
+            </tr>
+            <tr>
+                <td>Birth Date</td>
+                <td>{{selected.birthDate|date}}</td>
+            </tr>
+            <tr>
+                <td>Email</td>
+                <td>{{selected.email}}</td>
+            </tr>
+            <tr>
+                <td>Status</td>
+                <td>{{selected.status}}</td>
+            </tr>
+            <tr>
+                <td>Group</td>
+                <td>{{selected.group}}</td>
+            </tr>
+            <tr>
+                <td>Salary</td>
+                <td>{{selected.basicSalary|currency:'IDR'}}</td>
+            </tr>
+            <tr>
+                <td>Description</td>
+                <td>{{selected.description|date}}</td>
+            </tr>
+            </tbody>
+        </table>
+        
+        <button class="btn btn-primary btn-block" (click)="selected = null">Oke</button>
+    </div>
+</ng-container>

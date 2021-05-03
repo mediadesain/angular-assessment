@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+:root{
+    --primary: #459dda;
+    --secodnary: #feb600;
+}
+
+body{background: #f9f9f9}
+main {padding-top:80px}
+a, a:hover {text-decoration: none; color: var(--primary)}
+
+pre { font-size: x-small; background: #f3f3f3; border: 1px solid #ddd; padding: 20px; border-radius: 5px; max-height: 200px; overflow: scroll; }
+
+/*--Overwrite Bootsrap--*/
+nav { background: #fff; box-shadow: 0 0 15px rgb(0 0 0 / 10%); }
+.navbar-brand img { margin-top: -15px; }
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link { color: var(--primary); }
+.btn {border: 0;}
+.btn-primary {background: var(--primary);}
+.btn-warning {background: var(--secodnary);color:var(--primary)}
+.table { background: #fff; border-radius: 7px; overflow: hidden; box-shadow: 0 0 15px rgb(0 0 0 / 5%); }
+.table-striped tbody tr:nth-of-type(odd) { background-color: rgba(0,0,0,.02); }
+
+
+.ngx-pagination .current {background: var(--primary) !important;border-radius: 25px;}
+.ngx-pagination a:hover, .ngx-pagination button:hover { background: #f1f1f1; border-radius: 25px; }
