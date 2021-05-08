@@ -1,21 +1,18 @@
 <ng-container *ngIf="!auth.active">
     <div class="container text-center">
         Please Login to Access This Page <a reouterLink="/account">Login Here</a>
+        <app-auth></app-auth>
     </div>
 </ng-container>
 
 <ng-container *ngIf="auth.active">
     <div *ngIf="!selected" class="container">
-        <div class="d-flex">
+        <div class="d-sm-flex">
             <div class="p-2 flex-grow-1">
-                <input class="form-control" type="text" placeholder="search"/>
+                <input class="form-control" type="text" placeholder="Search (SOON)"/>
             </div>
             <div class="p-2">
-                <select class="form-control">
-                    <option>CS</option>
-                    <option>Manager</option>
-                    <option>Teller</option>
-                </select>
+                <button type="button" class="btn btn-primary btn-block" data-toggle="modal" data-target="#filterModal"><i class="fa fa-filter"></i> Filter</button>
             </div>
             <div class="p-2">
                 <select class="form-control" name="showperpage" [(ngModel)]="showperpage">
@@ -25,7 +22,7 @@
                     <option>60</option>
                 </select>
             </div>
-            <div class="p-2"><a routerLink="/new-employee" class="btn btn-success">Add Employee</a></div>
+            <div class="p-2"><a routerLink="/new-employee" class="btn btn-success btn-block"><i class="fa fa-plus-circle"></i>  Add Employee</a></div>
         </div>
         <table class="table table-striped">
             <thead>
@@ -39,7 +36,7 @@
             </tr>
         </thead>
             <tbody>
-            <tr *ngFor="let a of data | paginate: { itemsPerPage: showperpage, currentPage: page  };let i = index">
+            <tr *ngFor="let a of data | fltMultiple:filter | paginate: { itemsPerPage: showperpage, currentPage: page  };let i = index">
                 <td>{{a.firstName + ' ' + a.lastName}}</td>
                 <td>{{a.birthDate|date}}</td>
                 <td><a href="mailto:{{a.email}}">{{a.email}}</a></td>
@@ -95,3 +92,32 @@
         <button class="btn btn-primary btn-block" (click)="selected = null">Oke</button>
     </div>
 </ng-container>
+
+  <!-- The Modal -->
+  <div class="modal" id="filterModal">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h4 class="modal-title">Filter</h4>
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="modal-body">
+            <input class="form-control" placeholder="Search (SOON)"/>
+            <div class="form-check" *ngFor="let a of filterlist">
+                <label class="form-check-label">
+                  <input type="checkbox" 
+                    class="form-check-input"
+                    name="filter"
+                    [value]="filter"
+                    [ngModel]="a"
+                    [checked]="filter.indexOf(a) > -1"
+                    (change)="selectBox(data, filter, a)"
+                  >{{a}}
+                </label>
+            </div>
+            {{filter|json}}
+        </div>
+        <div class="modal-footer"><button type="button" class="btn btn-danger" data-dismiss="modal">Close</button></div>
+      </div>
+    </div>
+  </div>

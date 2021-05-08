@@ -23,3 +23,7 @@ nav { background: #fff; box-shadow: 0 0 15px rgb(0 0 0 / 10%); }
 
 .ngx-pagination .current {background: var(--primary) !important;border-radius: 25px;}
 .ngx-pagination a:hover, .ngx-pagination button:hover { background: #f1f1f1; border-radius: 25px; }
+
+@media (max-width: 576px) {
+    table {display: block; overflow: scroll !important;}
+}

@@ -6,7 +6,7 @@ import { FormsModule } from "@angular/forms";
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
-import { LoginComponent } from './public/auth/auth.component';
+// import { LoginComponent } from './public/auth/auth.component';
 import { MenubarComponent } from './public/_shared/menubar/menubar.component';
 import { FooterComponent } from './public/_shared/footer/footer.component';
 
@@ -18,7 +18,7 @@ import { AuthService } from './services/auth.service';
 @NgModule({
   declarations: [
     AppComponent,
-    LoginComponent,
+    // LoginComponent,
     MenubarComponent,
     FooterComponent
   ],

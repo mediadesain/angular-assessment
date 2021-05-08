@@ -13,6 +13,8 @@ export class EmployeeComponent implements OnInit {
   showperpage : number = 15;
   page : number = 1;
   selected : any;
+  filterlist : any = ["CS","Manager", "Teller"];
+  filter: any = ["CS","Manager"];
   constructor(
     public authdata: AuthService,
     private http: HttpClient
@@ -32,6 +34,13 @@ export class EmployeeComponent implements OnInit {
       }
     );
   };
+
+  selectBox(data:any,target:any, val:any) {
+    var idx = target.indexOf(val);
+    if (idx > -1) target.splice(idx, 1);
+    else target.push(val);
+    //this.ngOnInit()
+  }
 
   viewDetail(data:any){
     console.log(data)
